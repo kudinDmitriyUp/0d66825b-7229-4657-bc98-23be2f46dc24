@@ -196,7 +196,7 @@ export default function Home() {
           tag="Guest Reviews"
           tagIcon={Star}
           textboxLayout="default"
-          animationType="entrance-slide"
+          animationType="reveal-blur"
           testimonials={[
             {
               id: "1",
